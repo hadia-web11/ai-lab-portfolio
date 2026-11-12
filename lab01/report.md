@@ -19,6 +19,14 @@ See `inspect_reports.txt` (Titanic and Penguins datasets, produced by `inspect.p
 
 ## 3. Git graph
 Paste the output of this command run in your repo:
+## 3. Git graph
+
+Output of `git log --oneline --graph --all`:
+
+* 62c65b0 (HEAD -> main, origin/main) Add exercise 3 note
+* be245f3 Add exercise 2 note
+* b6d6336 Add exercise 1 note
+* bd103d0 Lab 01: environment setup and first notebook
 ```
 git log --oneline --graph --all
 ```

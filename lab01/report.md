@@ -10,6 +10,7 @@ python -m ipykernel install --user --name ai-lab --display-name "Python (ai-lab)
 ```
 <img width="1364" height="651" alt="image" src="https://github.com/user-attachments/assets/d7fd0ec3-e626-42a9-8b57-279bccc52991" />
 
+[Uploading lab01_setup.html…]()
 
 ## 2. Inspection outputs
 See `inspect_reports.txt` (Titanic and Penguins datasets, produced by `inspect.py`) and `lab01_setup.ipynb`.
